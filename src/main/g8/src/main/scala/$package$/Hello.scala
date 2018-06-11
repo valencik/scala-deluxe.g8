@@ -1,7 +1,9 @@
 package $package$
 
 object Hello extends Greeting with App {
+  // scalastyle:off
   println(greeting)
+  // scalastyle:on
 }
 
 trait Greeting {

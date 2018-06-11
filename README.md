@@ -1,12 +1,10 @@
-Scala Starter
-=============
+Scala Deluxe
+============
 
-This is a [Giter8](http://www.foundweekends.org/giter8/) template for quick Scala projects.
-
-It is forked from the [Scala Seed](https://github.com/scala/scala-seed.g8).
+This is a [Giter8](http://www.foundweekends.org/giter8/) template for Scala projects with an opinionated set of plugins and tools.
 
 ## Usage
 
 ```
-sbt new valencik/scala-starter.g8
+sbt new valencik/scala-deluxe.g8
 ```
