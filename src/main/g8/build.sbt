@@ -1,4 +1,4 @@
-lazy val ScalaTestVersion = "3.0.5"
+lazy val ScalaTestVersion = "3.0.7"
 
 lazy val ScalacOptions = Seq(
   scalacOptions ++= Seq(
