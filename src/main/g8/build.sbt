@@ -1,4 +1,4 @@
-lazy val ScalaTestVersion = "3.0.8"
+lazy val ScalaTestVersion = "$scalatest_version$"
 
 lazy val root = (project in file(".")).settings(
   inThisBuild(
